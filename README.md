@@ -1,2 +1,2 @@
-# data-representation-coursework
+# Data representation coursework
 data representation coursework
