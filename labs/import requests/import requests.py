@@ -1,9 +1,6 @@
-from xml.dom.minidom import parse, parseString
+import requests
 
-import csv
-
-
-url: "http://api.irishrail.ie/realtime/realtime.asmx/getCurrentTrainsXML"
-
-
-
+page = requests.get("http://api.irishrail.ie/realtime/realtime.asmx/getCurrentTrainsXML")
+print(page)
+print("------------")
+print(page.content)
