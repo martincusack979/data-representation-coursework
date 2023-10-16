@@ -2,7 +2,7 @@
 
 Name:  Martin Cusack
 
-I.D:  G00239124@atu.ie
+I.D:  G00239124
 
 ## Assignment 01
 
