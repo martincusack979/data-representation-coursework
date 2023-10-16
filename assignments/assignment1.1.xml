@@ -1,5 +1,36 @@
 
-# Assignment 1.1
+<library>
 
-  { title
-    isbn}
+  <cookery>
+
+  <book>
+    <isbn>1234556677</isbn>
+    <title>The French Chef Cookbook</title>
+    <author>Julia Child</author>
+  </book>
+
+  <book>
+    <isbn>1244992234</isbn>
+    <title>Madhur Jaffrey's Indian Cookery</title>
+    <author>Madhur Jaffrey</author>
+  </book>
+
+  </cookery>
+
+  <technical>
+
+  <book>
+    <isbn>1244231987</isbn>
+    <title>Python for Data Analysis</title>
+    <author>Wes McKinney</author>
+  </book>
+
+  <book>
+    <isbn>1265432388</isbn>
+    <title>Learn AI with Python</title>
+    <author>Gaurav Leekha</author>
+  </book>
+
+  </technical>
+
+</library>
