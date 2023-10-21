@@ -21,8 +21,6 @@ def createBook(book):
     response = requests.post(url,json=book)
     return response.json()
 
-def updatebook(bookdiff):
-    pass
 def deletebook(id):
     geturl = url + "/" + str(id)
     response = requests.delete(geturl)
