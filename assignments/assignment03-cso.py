@@ -1,7 +1,7 @@
 import requests
 import json
 
-# find "exchequer account (historical series)"" from CSO
+# find "exchequer account (historical series)" from CSO
 url = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/FIQ02/JSON-stat/2.0/en"
 
 def getAll():   
