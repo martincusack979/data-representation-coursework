@@ -1,24 +1,25 @@
 import requests
 import urllib.parse
-from htmlconfig import config as cfg
+import configparser
+from config import config as cfg
 
 targetUrl = "https://en.wikipedia.org"
-#targetUrl = "https://www.atu.ie/"
+apiKey = cfg['rtQ6A9S9j89Avc6e7gPCxbTPuFyXBifC26iPkmuFFddZjA7ERbhkq3pwwbOI4CkJ']
 
-apiKey = cfg["htmltopdfkey"]
-#api = "yourkey"
+
+config = {
+"htmltopdfkey":"eAs3mWn7R59gxZ6kSYysYdpTUsivY7Am74aSN36pOHdMMyTu3XDpdSOtaAySz3qF"
+}
+
 apiurl = 'https://api.html2pdf.app/v1/generate'
 
 params = {'url': targetUrl,'apiKey': apiKey}
 parsedparams = urllib.parse.urlencode(params)
-
-requestUrl = apiurl +"?" + parsedparams 
-print (requestUrl)
+requestUrl = apiurl +"?" + parsedparams
 
 response = requests.get(requestUrl)
-
 print (response.status_code)
-result =response.content
 
+result =response.content
 with open("document.pdf", "wb") as handler:
     handler.write(result)
