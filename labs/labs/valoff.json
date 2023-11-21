@@ -1,0 +1,2321 @@
+[
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 656960,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "1&2 ST MARY\u2019S COTTAGES STRAND ROAD",
+        "Address2": "BRAY",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 727263.31,
+        "Yitm": 718093.56,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 288.06,
+                "NavPerM2": 40.0,
+                "Nav": 11522.4
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2182265,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "LOCAL NO/MAP REF: 1AC",
+        "Address2": "COOLNASKEAGH",
+        "Address3": "DELGANY",
+        "Address4": "RATHDOWN 2 CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 726422.27,
+        "Yitm": 712966.08,
+        "ValuationReport": [
+            {
+                "Level": "-1",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 322.0,
+                "NavPerM2": 55.0,
+                "Nav": 17710.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 1152.0,
+                "NavPerM2": 55.0,
+                "Nav": 63360.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 5014302,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, -",
+        "Address1": "Ballinabarney Stud",
+        "Address2": "Blackhill Road",
+        "Address3": "Co Wicklow",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 726871.826597075,
+        "Yitm": 693080.758634174,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 39.6,
+                "NavPerM2": 0.0,
+                "Nav": 0.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "EST NAV",
+                "Area": 1.0,
+                "NavPerM2": 1200.0,
+                "Nav": 1200.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 635629,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, ",
+        "Address1": "LOCAL NO/MAP REF: 1AABC.3A",
+        "Address2": "WOODSTOCK DEMESNE",
+        "Address3": "KILCOOLE",
+        "Address4": "RATHDRUM CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 728686.52,
+        "Yitm": 706705.14,
+        "ValuationReport": [
+            {
+                "Level": "3",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 965.48,
+                "NavPerM2": 55.0,
+                "Nav": 53101.4
+            },
+            {
+                "Level": "2",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 399.9,
+                "NavPerM2": 55.0,
+                "Nav": 21994.5
+            },
+            {
+                "Level": "1",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 1193.28,
+                "NavPerM2": 55.0,
+                "Nav": 65630.4
+            },
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 187.56,
+                "NavPerM2": 55.0,
+                "Nav": 10315.8
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 653618,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "SPORTS & LEISURE CENTRE, -",
+        "Address1": "2M FERRYBANK",
+        "Address2": "ARKLOW",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 725175.02,
+        "Yitm": 673623.92,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "SPORTS & LEISURE",
+                "Area": 1816.0,
+                "NavPerM2": 40.0,
+                "Nav": 72640.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 655790,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "1A MARTELLO TERRACE",
+        "Address2": "BRAY",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 726863.85,
+        "Yitm": 719153.07,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "BAR",
+                "Area": 60.91,
+                "NavPerM2": 40.0,
+                "Nav": 2436.4
+            },
+            {
+                "Level": "1",
+                "FloorUse": "BAR",
+                "Area": 93.98,
+                "NavPerM2": 40.0,
+                "Nav": 3759.2
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 656453,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STADIUM, -",
+        "Address1": "40**45 (CARLISLE GROUNDS) PRINCE OF WALES TERRACE",
+        "Address2": "BRAY",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 726741.25,
+        "Yitm": 718938.98,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "EST NAV",
+                "Area": 1.0,
+                "NavPerM2": 13000.0,
+                "Nav": 13000.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2186915,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, -",
+        "Address1": "LOCAL NO/MAP REF: 3AB",
+        "Address2": "BALLYNABARNEY",
+        "Address3": "GLENEALY",
+        "Address4": "RATHDRUM CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 727451.98,
+        "Yitm": 693494.55,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 364.25,
+                "NavPerM2": 25.0,
+                "Nav": 9106.25
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 5011741,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "GYMNASIUM / FITNESS CENTRE, -",
+        "Address1": "Matchf Fit Fitness",
+        "Address2": "DE LA SALLE PASTORAL CENTRE",
+        "Address3": "SAINT MANTAN'S ROAD",
+        "Address4": "Wicklow Town",
+        "Address5": "Co. Wicklow",
+        "CarPark": 0,
+        "Xitm": 731289.02,
+        "Yitm": 693830.59,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "GYMNASIUM",
+                "Area": 381.75,
+                "NavPerM2": 50.4,
+                "Nav": 19240.2
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2187151,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "SPORTS & LEISURE CENTRE, -",
+        "Address1": "LOCAL NO/MAP REF: 4G",
+        "Address2": "CHARLESLAND",
+        "Address3": "KILCOOLE",
+        "Address4": "RATHDRUM CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 729538.01,
+        "Yitm": 709736.15,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "GYMNASIUM",
+                "Area": 1378.99,
+                "NavPerM2": 60.0,
+                "Nav": 82739.4
+            },
+            {
+                "Level": "1",
+                "FloorUse": "GYMNASIUM",
+                "Area": 1193.49,
+                "NavPerM2": 60.0,
+                "Nav": 71609.4
+            },
+            {
+                "Level": "-1",
+                "FloorUse": "GYMNASIUM",
+                "Area": 1238.16,
+                "NavPerM2": 60.0,
+                "Nav": 74289.6
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 640630,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "LOCAL NO/MAP REF: 1B A",
+        "Address2": "KILPOOLE LOWER",
+        "Address3": "WICKLOW RURAL",
+        "Address4": "RATHDRUM CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 733238.59,
+        "Yitm": 690093.09,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 726.05,
+                "NavPerM2": 45.0,
+                "Nav": 32672.25
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 652493,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, ",
+        "Address1": "ON 2A KNOCKENRAHAN UP",
+        "Address2": "ARKLOW",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 723151.03,
+        "Yitm": 672786.12,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 96.9,
+                "NavPerM2": 40.0,
+                "Nav": 3876.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "22/11/2021",
+        "PropertyNumber": 653379,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, ",
+        "Address1": "6/B YARDLANDS",
+        "Address2": "ARKLOW",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 723565.87,
+        "Yitm": 673503.8,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 60.7,
+                "NavPerM2": 40.0,
+                "Nav": 2428.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 655487,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "60-62 Florence Road",
+        "Address2": "Bray",
+        "Address3": "Co. Wicklow",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 726761.3,
+        "Yitm": 718664.97,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 72.91,
+                "NavPerM2": 40.0,
+                "Nav": 2916.4
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 663708,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "13 DISPENSARY LANE",
+        "Address2": "WICKLOW",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 731648.05,
+        "Yitm": 693839.51,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 53.9,
+                "NavPerM2": 40.0,
+                "Nav": 2156.0
+            },
+            {
+                "Level": "1",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 53.9,
+                "NavPerM2": 40.0,
+                "Nav": 2156.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 714104,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "BOWLING-ALLEY, -",
+        "Address1": "39 QUINSBOROUGH ROAD",
+        "Address2": "BRAY",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 726792.3,
+        "Yitm": 718834.52,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "BOWLING ALLEY",
+                "Area": 1677.42,
+                "NavPerM2": 60.0,
+                "Nav": 100645.2
+            },
+            {
+                "Level": "1",
+                "FloorUse": "OTHER",
+                "Area": 1646.64,
+                "NavPerM2": 24.0,
+                "Nav": 39519.36
+            },
+            {
+                "Level": "-1",
+                "FloorUse": "OTHER",
+                "Area": 424.58,
+                "NavPerM2": 20.0,
+                "Nav": 8491.6
+            },
+            {
+                "Level": "-1",
+                "FloorUse": "CAR SPACES (NO. OF)",
+                "Area": 56.0,
+                "NavPerM2": 150.0,
+                "Nav": 8400.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2171849,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "SPORTS & LEISURE CENTRE, ",
+        "Address1": "7C BOLLARNEY NORTH",
+        "Address2": "WICKLOW",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 730763.94,
+        "Yitm": 694596.05,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "SPORTS & LEISURE",
+                "Area": 1247.04,
+                "NavPerM2": 60.0,
+                "Nav": 74822.4
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2189750,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "GOLF DRIVING RANGE, ",
+        "Address1": "LOCAL NO/MAP REF: 1B",
+        "Address2": "GORMANSTOWN",
+        "Address3": "DUNGANSTOWN EAST",
+        "Address4": "RATHDRUM CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 729839.2,
+        "Yitm": 689358.57,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CANOPY",
+                "Area": 210.0,
+                "NavPerM2": 12.0,
+                "Nav": 2520.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 633516,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "EQUESTRIAN CENTRE, -",
+        "Address1": "LOCAL NO/MAP REF: 1J",
+        "Address2": "HOLLYBROOK",
+        "Address3": "KILMACANOGUE",
+        "Address4": "RATHDOWN 2 CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 724714.733834043,
+        "Yitm": 716096.579253428,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "EQUESTRIAN CENTRE",
+                "Area": 1341.5,
+                "NavPerM2": 22.5,
+                "Nav": 30183.75
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 638630,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "LOCAL NO/MAP REF: 4A/E",
+        "Address2": "ROUNDWOOD",
+        "Address3": "OLDTOWN",
+        "Address4": "RATHDRUM CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 718637.9,
+        "Yitm": 702514.16,
+        "ValuationReport": [
+            {
+                "Level": "1",
+                "FloorUse": "BAR",
+                "Area": 180.79,
+                "NavPerM2": 35.0,
+                "Nav": 6327.65
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 648209,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "EQUESTRIAN CENTRE, ",
+        "Address1": "LOCAL NO/MAP REF: 2A/B",
+        "Address2": "MULLANS SOUTH",
+        "Address3": "TINAHELY",
+        "Address4": "SHILLELAGH CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 701732.879160167,
+        "Yitm": 676916.971328968,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "ARENA",
+                "Area": 1012.86,
+                "NavPerM2": 18.0,
+                "Nav": 18231.48
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 172.8,
+                "NavPerM2": 20.0,
+                "Nav": 3456.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 652402,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, ",
+        "Address1": "5D KNOCKENRAHAN UP",
+        "Address2": "ARKLOW",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 723121.35,
+        "Yitm": 672615.57,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "BAR",
+                "Area": 22.75,
+                "NavPerM2": 40.0,
+                "Nav": 910.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "TOILETS",
+                "Area": 11.2,
+                "NavPerM2": 40.0,
+                "Nav": 448.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "FUNCTION ROOM",
+                "Area": 146.25,
+                "NavPerM2": 40.0,
+                "Nav": 5850.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "KITCHEN",
+                "Area": 19.32,
+                "NavPerM2": 40.0,
+                "Nav": 772.8
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2183898,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "SWIMMING POOL, BEAUTY SALON / MASSAGE",
+        "Address1": "LOCAL NO/MAP REF: 1B.4AB.5/2",
+        "Address2": "MACREDDIN WEST",
+        "Address3": "AUGHRIM",
+        "Address4": "RATHDRUM CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 712354.59,
+        "Yitm": 682297.69,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "SPORTS & LEISURE",
+                "Area": 910.0,
+                "NavPerM2": 55.0,
+                "Nav": 50050.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 622956,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, ",
+        "Address1": "LOCAL NO/MAP REF: 4A",
+        "Address2": "STRATFORD LODGE",
+        "Address3": "BALTINGLASS",
+        "Address4": "BALTINGLASS 1 CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 686222.72,
+        "Yitm": 688995.24,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "BAR",
+                "Area": 260.03,
+                "NavPerM2": 50.0,
+                "Nav": 13001.5
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STORE",
+                "Area": 229.35,
+                "NavPerM2": 50.0,
+                "Nav": 11467.5
+            },
+            {
+                "Level": "0",
+                "FloorUse": "BOILER HOUSE / PLANT",
+                "Area": 11.6,
+                "NavPerM2": 50.0,
+                "Nav": 580.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2182258,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "Bray Golf Club",
+        "Address2": "Ballynamuddagh",
+        "Address3": "Bray",
+        "Address4": "Co. Wicklow",
+        "Address5": "A98 YX76",
+        "CarPark": 0,
+        "Xitm": 727532.57,
+        "Yitm": 716332.98,
+        "ValuationReport": [
+            {
+                "Level": "-1",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 196.24,
+                "NavPerM2": 55.0,
+                "Nav": 10793.2
+            },
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 993.88,
+                "NavPerM2": 55.0,
+                "Nav": 54663.4
+            }
+        ]
+    },
+    {
+        "PublicationDate": "29/07/2022",
+        "PropertyNumber": 5014688,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "EQUESTRIAN CENTRE, -",
+        "Address1": "Marlton Road",
+        "Address2": "Ballynerrin Lower",
+        "Address3": "Wicklow",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 730300.62,
+        "Yitm": 693248.45,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "ARENA",
+                "Area": 1260.0,
+                "NavPerM2": 15.3,
+                "Nav": 19278.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STORE",
+                "Area": 138.32,
+                "NavPerM2": 10.0,
+                "Nav": 1383.2
+            },
+            {
+                "Level": "0",
+                "FloorUse": "TOILETS",
+                "Area": 13.44,
+                "NavPerM2": 10.0,
+                "Nav": 134.4
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 181.2,
+                "NavPerM2": 10.0,
+                "Nav": 1812.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 634484,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "OPEN FARM, -",
+        "Address1": "LOCAL NO/MAP REF: 6/A",
+        "Address2": "BALLYGANNON",
+        "Address3": "KILCOOLE",
+        "Address4": "RATHDRUM CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 730319.53,
+        "Yitm": 708833.9,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "RECEPTION",
+                "Area": 57.33,
+                "NavPerM2": 30.0,
+                "Nav": 1719.9
+            },
+            {
+                "Level": "0",
+                "FloorUse": "WAREHOUSE",
+                "Area": 157.4,
+                "NavPerM2": 30.0,
+                "Nav": 4722.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "CAF\u00c9",
+                "Area": 99.48,
+                "NavPerM2": 30.0,
+                "Nav": 2984.4
+            },
+            {
+                "Level": "0",
+                "FloorUse": "MUSEUM",
+                "Area": 117.97,
+                "NavPerM2": 30.0,
+                "Nav": 3539.1
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STORE",
+                "Area": 45.08,
+                "NavPerM2": 30.0,
+                "Nav": 1352.4
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 636679,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "LOCAL NO/MAP REF: 2",
+        "Address2": "BALLINAHINCH UPPER",
+        "Address3": "NEWCASTLE UPPER",
+        "Address4": "RATHDRUM CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 723089.26,
+        "Yitm": 705292.08,
+        "ValuationReport": [
+            {
+                "Level": "1",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 30.7,
+                "NavPerM2": 50.0,
+                "Nav": 1535.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 564.61,
+                "NavPerM2": 50.0,
+                "Nav": 28230.5
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 639955,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, ",
+        "Address1": "LOCAL NO/MAP REF: 1F",
+        "Address2": "ASHTOWN/DRUMKAY",
+        "Address3": "WICKLOW RURAL",
+        "Address4": "RATHDRUM CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 729927.89,
+        "Yitm": 693054.81,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 369.0,
+                "NavPerM2": 50.0,
+                "Nav": 18450.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 641695,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "LOCAL NO/MAP REF: 6.8AA.9",
+        "Address2": "ARDANAIRY",
+        "Address3": "DUNGANSTOWN SOUTH",
+        "Address4": "RATHDRUM CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 729855.67,
+        "Yitm": 680484.11,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 251.16,
+                "NavPerM2": 50.0,
+                "Nav": 12558.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 629504,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "LOCAL NO/MAP REF: 17B/A",
+        "Address2": "KILLINCARRIG",
+        "Address3": "GREYSTONES",
+        "Address4": "RATHDOWN 2 CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 729375.65,
+        "Yitm": 711054.62,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "KITCHEN",
+                "Area": 18.13,
+                "NavPerM2": 40.0,
+                "Nav": 725.2
+            },
+            {
+                "Level": "1",
+                "FloorUse": "BAR",
+                "Area": 435.42,
+                "NavPerM2": 40.0,
+                "Nav": 17416.8
+            },
+            {
+                "Level": "0",
+                "FloorUse": "BOILER HOUSE / PLANT",
+                "Area": 20.9,
+                "NavPerM2": 40.0,
+                "Nav": 836.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2170344,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, ",
+        "Address1": "LOCAL NO/MAP REF: 4H",
+        "Address2": "TIMMORE",
+        "Address3": "NEWCASTLE LOWER",
+        "Address4": "RATHDRUM CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 727932.59,
+        "Yitm": 703795.39,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 278.06,
+                "NavPerM2": 55.0,
+                "Nav": 15293.3
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 629020,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "LOCAL NO/MAP REF: 10/A",
+        "Address2": "BELLEVUE DEM",
+        "Address3": "DELGANY",
+        "Address4": "RATHDOWN 2 CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 727069.31,
+        "Yitm": 710809.7,
+        "ValuationReport": [
+            {
+                "Level": "0      ",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 867.49,
+                "NavPerM2": 55.0,
+                "Nav": 47711.95
+            },
+            {
+                "Level": "1      ",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 754.83,
+                "NavPerM2": 55.0,
+                "Nav": 41515.65
+            },
+            {
+                "Level": "1      ",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 285.65,
+                "NavPerM2": 8.25,
+                "Nav": 2356.6125
+            },
+            {
+                "Level": "2      ",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 101.25,
+                "NavPerM2": 55.0,
+                "Nav": 5568.75
+            },
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": -88.01,
+                "NavPerM2": 55.0,
+                "Nav": -4840.55
+            },
+            {
+                "Level": "1",
+                "FloorUse": "CLUBHOUSE",
+                "Area": -70.6,
+                "NavPerM2": 55.0,
+                "Nav": -3883.0
+            },
+            {
+                "Level": "2",
+                "FloorUse": "CLUBHOUSE",
+                "Area": -5.0,
+                "NavPerM2": 55.0,
+                "Nav": -275.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2200194,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "SPORTS & LEISURE CENTRE, SWIMMING POOL",
+        "Address1": "9B/1 BALLYWALTRIM",
+        "Address2": "BRAY",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 725403.0,
+        "Yitm": 716436.56,
+        "ValuationReport": [
+            {
+                "Level": "0      ",
+                "FloorUse": "SPORTS & LEISURE",
+                "Area": 1878.78,
+                "NavPerM2": 60.0,
+                "Nav": 112726.8
+            },
+            {
+                "Level": "0",
+                "FloorUse": "SPORTS & LEISURE",
+                "Area": 328.37,
+                "NavPerM2": 60.0,
+                "Nav": 19702.2
+            },
+            {
+                "Level": "1      ",
+                "FloorUse": "SPORTS & LEISURE",
+                "Area": 361.65,
+                "NavPerM2": 60.0,
+                "Nav": 21699.0
+            },
+            {
+                "Level": "1",
+                "FloorUse": "SPORTS & LEISURE",
+                "Area": 578.14,
+                "NavPerM2": 60.0,
+                "Nav": 34688.4
+            },
+            {
+                "Level": "1      ",
+                "FloorUse": "PLANT ROOM",
+                "Area": 117.0,
+                "NavPerM2": 60.0,
+                "Nav": 7020.0
+            },
+            {
+                "Level": "1",
+                "FloorUse": "PLANT ROOM",
+                "Area": 22.2,
+                "NavPerM2": 60.0,
+                "Nav": 1332.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2196018,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "LOCAL NO/MAP REF: 3.4.5A",
+        "Address2": "CHARLESLAND",
+        "Address3": "KILCOOLE",
+        "Address4": "RATHDRUM CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 729630.89,
+        "Yitm": 710219.38,
+        "ValuationReport": [
+            {
+                "Level": "0      ",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 315.0,
+                "NavPerM2": 60.0,
+                "Nav": 18900.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 5014742,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, -",
+        "Address1": "Ballinabarney House",
+        "Address2": "Ballinabarney",
+        "Address3": "Redcross",
+        "Address4": "Co Wicklow",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 722595.25,
+        "Yitm": 685765.8,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 205.26,
+                "NavPerM2": 25.0,
+                "Nav": 5131.5
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 638146,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, ",
+        "Address1": "LOCAL NO/MAP REF: 20A",
+        "Address2": "BALLINASTOE",
+        "Address3": "CALARY",
+        "Address4": "RATHDRUM CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 720903.84,
+        "Yitm": 707532.42,
+        "ValuationReport": [
+            {
+                "Level": "0      ",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 190.0,
+                "NavPerM2": 50.0,
+                "Nav": 9500.0
+            },
+            {
+                "Level": "1      ",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 54.0,
+                "NavPerM2": 50.0,
+                "Nav": 2700.0
+            },
+            {
+                "Level": "1",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 108.0,
+                "NavPerM2": 50.0,
+                "Nav": 5400.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 642407,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "LOCAL NO/MAP REF: 1C",
+        "Address2": "JOHNSTOWN SOUTH",
+        "Address3": "KILBRIDE",
+        "Address4": "RATHDRUM CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 726130.86,
+        "Yitm": 677321.97,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "BAR",
+                "Area": 154.43,
+                "NavPerM2": 35.0,
+                "Nav": 5405.05
+            },
+            {
+                "Level": "0",
+                "FloorUse": "TOILETS",
+                "Area": 24.75,
+                "NavPerM2": 35.0,
+                "Nav": 866.25
+            },
+            {
+                "Level": "0",
+                "FloorUse": "BOILER HOUSE / PLANT",
+                "Area": 7.14,
+                "NavPerM2": 35.0,
+                "Nav": 249.9
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 653624,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "5K FERRYBANK",
+        "Address2": "ARKLOW",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 724900.74,
+        "Yitm": 673432.0,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 83.0,
+                "NavPerM2": 40.0,
+                "Nav": 3320.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 656983,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "AQUARIUM, -",
+        "Address1": "124 STRAND ROAD",
+        "Address2": "BRAY",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 727049.92,
+        "Yitm": 718684.36,
+        "ValuationReport": [
+            {
+                "Level": "-1",
+                "FloorUse": "OTHER",
+                "Area": 916.49,
+                "NavPerM2": 30.0,
+                "Nav": 27494.7
+            },
+            {
+                "Level": "0",
+                "FloorUse": "OTHER",
+                "Area": 467.0,
+                "NavPerM2": 50.0,
+                "Nav": 23350.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 629473,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "LOCAL NO/MAP REF: 12ABC",
+        "Address2": "KILLINCARRIG",
+        "Address3": "GREYSTONES",
+        "Address4": "RATHDOWN 2 CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 728873.87,
+        "Yitm": 711564.28,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 474.0,
+                "NavPerM2": 50.0,
+                "Nav": 23700.0
+            },
+            {
+                "Level": "1",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 676.5,
+                "NavPerM2": 50.0,
+                "Nav": 33825.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2199989,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "SPORTS & LEISURE CENTRE, ",
+        "Address1": "17A 18 19A/1 MILL ROAD",
+        "Address2": "GREYSTONES/DELGANY",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 729483.31,
+        "Yitm": 711262.73,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "GYMNASIUM",
+                "Area": 3466.52,
+                "NavPerM2": 60.0,
+                "Nav": 207991.2
+            },
+            {
+                "Level": "1",
+                "FloorUse": "GYMNASIUM",
+                "Area": 1084.73,
+                "NavPerM2": 60.0,
+                "Nav": 65083.8
+            },
+            {
+                "Level": "0",
+                "FloorUse": "PLANT ROOM",
+                "Area": 148.0,
+                "NavPerM2": 60.0,
+                "Nav": 8880.0
+            },
+            {
+                "Level": "1",
+                "FloorUse": "PLANT ROOM",
+                "Area": 306.68,
+                "NavPerM2": 60.0,
+                "Nav": 18400.8
+            },
+            {
+                "Level": "-1",
+                "FloorUse": "PLANT ROOM",
+                "Area": 172.35,
+                "NavPerM2": 60.0,
+                "Nav": 10341.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 5014562,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, -",
+        "Address1": "Ballymoyle",
+        "Address2": "Arklow",
+        "Address3": "Co Wickow",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 727382.25,
+        "Yitm": 679213.22,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 90.65,
+                "NavPerM2": 25.0,
+                "Nav": 2266.25
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 632693,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, -",
+        "Address1": "LOCAL NO/MAP REF: 11A/A",
+        "Address2": "KILLEGAR",
+        "Address3": "ENNISKERRY",
+        "Address4": "RATHDOWN 2 CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 721059.06,
+        "Yitm": 719095.11,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 1032.67,
+                "NavPerM2": 20.0,
+                "Nav": 20653.4
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 633515,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "EQUESTRIAN CENTRE, -",
+        "Address1": "LOCAL NO/MAP REF: 1E/A",
+        "Address2": "HOLLYBROOK",
+        "Address3": "KILMACANOGUE",
+        "Address4": "RATHDOWN 2 CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 724620.01,
+        "Yitm": 716021.64,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "EQUESTRIAN CENTRE",
+                "Area": 1323.0,
+                "NavPerM2": 18.0,
+                "Nav": 23814.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 644511,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STADIUM, -",
+        "Address1": "LOCAL NO/MAP REF: 16B",
+        "Address2": "AUGHRIM LOWER",
+        "Address3": "AUGHRIM",
+        "Address4": "RATHDRUM CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 712135.92,
+        "Yitm": 679286.38,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "EST NAV",
+                "Area": 1.0,
+                "NavPerM2": 58450.0,
+                "Nav": 58450.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 645947,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "LOCAL NO/MAP REF: 9C",
+        "Address2": "CORBALLIS UPR",
+        "Address3": "RATHDRUM",
+        "Address4": "RATHDRUM CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 718208.01,
+        "Yitm": 687138.63,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 682.98,
+                "NavPerM2": 35.0,
+                "Nav": 23904.3
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 629467,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "Greystones Lawn Tennis Club",
+        "Address2": "Mill Road",
+        "Address3": "Greystones",
+        "Address4": "Co. Wicklow",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 729145.48,
+        "Yitm": 710870.61,
+        "ValuationReport": [
+            {
+                "Level": "1",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 82.72,
+                "NavPerM2": 40.0,
+                "Nav": 3308.8
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 659051,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "18 VEVAY ROAD",
+        "Address2": "BRAY",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 726656.38,
+        "Yitm": 717251.36,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 125.0,
+                "NavPerM2": 60.0,
+                "Nav": 7500.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2187300,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, -",
+        "Address1": "LOCAL NO/MAP REF: 1B",
+        "Address2": "BOLEYBAWN",
+        "Address3": "TINAHELY",
+        "Address4": "SHILLELAGH CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 703236.54,
+        "Yitm": 671367.28,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 82.14,
+                "NavPerM2": 30.0,
+                "Nav": 2464.2
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 5011357,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "MARINA, -",
+        "Address1": "Greystones Harbour Marina",
+        "Address2": "The Harbour",
+        "Address3": "Greystones",
+        "Address4": "Co Wicklow",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 729372.78,
+        "Yitm": 712990.46,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "OFFICE(S)",
+                "Area": 190.0,
+                "NavPerM2": 62.4,
+                "Nav": 11856.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "BERTHS (NO. OF)",
+                "Area": 115.0,
+                "NavPerM2": 300.0,
+                "Nav": 34500.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 630536,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "9BCDE HARBOUR PLACE",
+        "Address2": "GREYSTONES/DELGANY",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 729535.29,
+        "Yitm": 712866.48,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 76.88,
+                "NavPerM2": 40.0,
+                "Nav": 3075.2
+            },
+            {
+                "Level": "1",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 76.88,
+                "NavPerM2": 40.0,
+                "Nav": 3075.2
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 645476,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "OUTDOOR ACTIVITY CENTRE, -",
+        "Address1": "LOCAL NO/MAP REF: 1A",
+        "Address2": "KNOCKRATH LITTLE",
+        "Address3": "BALLINDERRY",
+        "Address4": "RATHDRUM CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 715944.206129534,
+        "Yitm": 692913.315865124,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "STORE",
+                "Area": 10.24,
+                "NavPerM2": 0.0,
+                "Nav": 0.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "RECEPTION",
+                "Area": 2.1,
+                "NavPerM2": 0.0,
+                "Nav": 0.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "OFFICE - MEWS",
+                "Area": 16.0,
+                "NavPerM2": 0.0,
+                "Nav": 0.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "CAF\u00c9",
+                "Area": 441.0,
+                "NavPerM2": 0.0,
+                "Nav": 0.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "TOILETS",
+                "Area": 164.19,
+                "NavPerM2": 0.0,
+                "Nav": 0.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "CANOPY",
+                "Area": 12.0,
+                "NavPerM2": 0.0,
+                "Nav": 0.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "EST NAV",
+                "Area": 1.0,
+                "NavPerM2": 35000.0,
+                "Nav": 35000.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/06/2021",
+        "PropertyNumber": 648566,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE (GOLF), ",
+        "Address1": "LOCAL NO/MAP REF: 1BCDEFL 2B",
+        "Address2": "COOLATTIN PARK",
+        "Address3": "COOLATTIN",
+        "Address4": "SHILLELAGH CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 701183.964455912,
+        "Yitm": 667966.073305389,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 349.73,
+                "NavPerM2": 45.0,
+                "Nav": 15737.85
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 650755,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "2/AA ABBEYLANDS",
+        "Address2": "ARKLOW",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 724809.07,
+        "Yitm": 672564.8,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 439.7,
+                "NavPerM2": 50.0,
+                "Nav": 21985.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "04/03/2022",
+        "PropertyNumber": 656303,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "AMUSEMENT CENTRE, RETAIL WAREHOUSE",
+        "Address1": "28-31 STRAND ROAD",
+        "Address2": "BRAY",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 727006.48,
+        "Yitm": 718676.02,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "OTHER",
+                "Area": 787.98,
+                "NavPerM2": 80.0,
+                "Nav": 63038.4
+            }
+        ]
+    },
+    {
+        "PublicationDate": "20/09/2022",
+        "PropertyNumber": 656975,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "AMUSEMENT CENTRE, -",
+        "Address1": "99-100 STRAND ROAD",
+        "Address2": "BRAY",
+        "Address3": "CO. WICKLOW",
+        "Address4": "A98D2R7",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 727316.23,
+        "Yitm": 718012.01,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "OTHER",
+                "Area": 1771.51,
+                "NavPerM2": 65.0,
+                "Nav": 115148.15
+            },
+            {
+                "Level": "1",
+                "FloorUse": "OTHER",
+                "Area": 1489.15,
+                "NavPerM2": 26.0,
+                "Nav": 38717.9
+            },
+            {
+                "Level": "2",
+                "FloorUse": "STORE",
+                "Area": 62.2,
+                "NavPerM2": 24.0,
+                "Nav": 1492.8
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 626023,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, ",
+        "Address1": "LOCAL NO/MAP REF: 1.2A",
+        "Address2": "GRIFFENSTOWN GLEN",
+        "Address3": "RATHSALLAGH",
+        "Address4": "BALTINGLASS 1 CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 684594.67,
+        "Yitm": 697992.8,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 805.68,
+                "NavPerM2": 45.0,
+                "Nav": 36255.6
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 622460,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, ",
+        "Address1": "64C MAIN STREET",
+        "Address2": "BALTINGLASS",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 686767.22,
+        "Yitm": 688606.49,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 322.4,
+                "NavPerM2": 40.0,
+                "Nav": 12896.0
+            },
+            {
+                "Level": "1",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 14.4,
+                "NavPerM2": 40.0,
+                "Nav": 576.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 5010584,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "EQUESTRIAN CENTRE, -",
+        "Address1": "LOCAL NO/MAP REF: 4A/1",
+        "Address2": "NEWTOWNBOSWELL",
+        "Address3": "KILLISKEY",
+        "Address4": "RATHDRUM CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 726406.29,
+        "Yitm": 699795.19,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "SHOP",
+                "Area": 62.48,
+                "NavPerM2": 24.0,
+                "Nav": 1499.52
+            },
+            {
+                "Level": "0",
+                "FloorUse": "OFFICE(S)",
+                "Area": 78.62,
+                "NavPerM2": 20.0,
+                "Nav": 1572.4
+            },
+            {
+                "Level": "MEZZ",
+                "FloorUse": "SHOP",
+                "Area": 12.0,
+                "NavPerM2": 9.6,
+                "Nav": 115.2
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STORE",
+                "Area": 31.61,
+                "NavPerM2": 20.0,
+                "Nav": 632.2
+            },
+            {
+                "Level": "0",
+                "FloorUse": "CAF\u00c9",
+                "Area": 115.26,
+                "NavPerM2": 24.0,
+                "Nav": 2766.24
+            },
+            {
+                "Level": "1",
+                "FloorUse": "EQUESTRIAN CENTRE",
+                "Area": 104.72,
+                "NavPerM2": 10.0,
+                "Nav": 1047.2
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 705.99,
+                "NavPerM2": 20.0,
+                "Nav": 14119.8
+            },
+            {
+                "Level": "0",
+                "FloorUse": "WORKSHOP",
+                "Area": 56.36,
+                "NavPerM2": 20.0,
+                "Nav": 1127.2
+            },
+            {
+                "Level": "0",
+                "FloorUse": "EQUESTRIAN CENTRE",
+                "Area": 150.2,
+                "NavPerM2": 10.0,
+                "Nav": 1502.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "EQUESTRIAN CENTRE",
+                "Area": 9.84,
+                "NavPerM2": 20.0,
+                "Nav": 196.8
+            }
+        ]
+    },
+    {
+        "PublicationDate": "27/11/2020",
+        "PropertyNumber": 5014746,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, -",
+        "Address1": "Ballykeane",
+        "Address2": "Redcross",
+        "Address3": "Co Wicklow",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 724569.3,
+        "Yitm": 685340.81,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 292.2,
+                "NavPerM2": 25.0,
+                "Nav": 7305.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 643434,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "LOCAL NO/MAP REF: 6",
+        "Address2": "BALLYARTHUR",
+        "Address3": "RATHDRUM CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 719221.12,
+        "Yitm": 677290.04,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 58.8,
+                "NavPerM2": 50.0,
+                "Nav": 2940.0
+            },
+            {
+                "Level": "1",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 450.1,
+                "NavPerM2": 50.0,
+                "Nav": 22505.0
+            },
+            {
+                "Level": "-1",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 45.0,
+                "NavPerM2": 50.0,
+                "Nav": 2250.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "18/07/2022",
+        "PropertyNumber": 652497,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, ",
+        "Address1": "ON 5A KNOCKENRAHAN UP",
+        "Address2": "ARKLOW",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 722923.74,
+        "Yitm": 672738.98,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 115.2,
+                "NavPerM2": 40.0,
+                "Nav": 4608.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2194582,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CINEMA, -",
+        "Address1": "LEVEL 1 (CINEMA), PT LEVEL 2 BRIDGEWATER SHOPPING CENTRE",
+        "Address2": "ARKLOW",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 724971.09,
+        "Yitm": 673652.01,
+        "ValuationReport": []
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 629955,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "GOLF DRIVING RANGE, -",
+        "Address1": "19E.24H MANOR AVENUE",
+        "Address2": "GREYSTONES/DELGANY",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 730066.32,
+        "Yitm": 711311.84,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "GOLF DRIVING RANGE",
+                "Area": 61.02,
+                "NavPerM2": 45.0,
+                "Nav": 2745.9
+            },
+            {
+                "Level": "0",
+                "FloorUse": "GOLF DRIVING RANGE",
+                "Area": 459.0,
+                "NavPerM2": 20.0,
+                "Nav": 9180.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 662879,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "SNOOKER HALL, -",
+        "Address1": "P45A 48A (BASEMENT) CORPORATION LANDS",
+        "Address2": "WICKLOW",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 731582.16,
+        "Yitm": 693963.42,
+        "ValuationReport": [
+            {
+                "Level": "-1",
+                "FloorUse": "OFFICE(S)",
+                "Area": 313.39,
+                "NavPerM2": 70.0,
+                "Nav": 21937.3
+            },
+            {
+                "Level": "-1",
+                "FloorUse": "ALLOWANCE",
+                "Area": -1.0,
+                "NavPerM2": 8774.92,
+                "Nav": -8774.92
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 663118,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "11AC CASTLE PARK",
+        "Address2": "WICKLOW",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 732117.62,
+        "Yitm": 694092.21,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 264.0,
+                "NavPerM2": 40.0,
+                "Nav": 10560.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2200628,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "THEATRE, -",
+        "Address1": "1 KIORA/2 THEATRE LANE",
+        "Address2": "GREYSTONES/DELGANY",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 729463.47,
+        "Yitm": 712208.36,
+        "ValuationReport": []
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2199477,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "LOCAL NO/MAP REF: 20A/1",
+        "Address2": "BALLINASTOE",
+        "Address3": "CALARY",
+        "Address4": "RATHDRUM CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 720886.89,
+        "Yitm": 707541.95,
+        "ValuationReport": [
+            {
+                "Level": "0      ",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 263.0,
+                "NavPerM2": 50.0,
+                "Nav": 13150.0
+            },
+            {
+                "Level": "1      ",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 230.0,
+                "NavPerM2": 50.0,
+                "Nav": 11500.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 663131,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "16A CASTLE FIELD",
+        "Address2": "WICKLOW",
+        "Address3": "CO. WICKLOW",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 732573.64,
+        "Yitm": 693404.84,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 489.87,
+                "NavPerM2": 55.0,
+                "Nav": 26942.85
+            },
+            {
+                "Level": "1",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 505.38,
+                "NavPerM2": 55.0,
+                "Nav": 27795.9
+            },
+            {
+                "Level": "0",
+                "FloorUse": "SHOP",
+                "Area": 57.34,
+                "NavPerM2": 55.0,
+                "Nav": 3153.7
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STORE",
+                "Area": 100.34,
+                "NavPerM2": 55.0,
+                "Nav": 5518.7
+            },
+            {
+                "Level": "1",
+                "FloorUse": "STORE",
+                "Area": 74.42,
+                "NavPerM2": 55.0,
+                "Nav": 4093.1
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1035217,
+        "County": "WICKLOW",
+        "LocalAuthority": "WICKLOW COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "LOCAL NO/MAP REF: 2A/F",
+        "Address2": "POWERSCOURT DEM",
+        "Address3": "ENNISKERRY",
+        "Address4": "RATHDOWN 2 CO. WICKLOW",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 721219.24,
+        "Yitm": 716729.03,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 1513.53,
+                "NavPerM2": 55.0,
+                "Nav": 83244.15
+            },
+            {
+                "Level": "-1",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 65.92,
+                "NavPerM2": 55.0,
+                "Nav": 3625.6
+            }
+        ]
+    }
+]
