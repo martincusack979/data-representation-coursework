@@ -8,7 +8,7 @@
     <h1>Books</h1>
     
      <div>
-     <table class = "table">
+     <table class = "table" id = "bookTable">
         <tr>
         <th>id</th>
         <th>Title</th>
@@ -46,7 +46,13 @@
 
      </table>
 
-     id <input type="text" name="id"><br/>
+     <h2>
+        <span id= "createLabel">Create a</span>
+        <span id= "createLabel" style="display:none">Update this</span> Book
+        </h2>
+   
+     <div id='createUpdateForm' style="display:none">
+       id <input type="text" name="id"><br/>
 
      Title <input type="text" name="title"><br/>
      Author <input type="text" name="author"><br/>
@@ -57,17 +63,28 @@
         <option value="other">out of print</option>
         </select><br/>
 
-        <span><button>Create</button></span>
-        <span><button style="display:none">Update</button></span>
+        
+        <span><button id="button-doCreate" onclick="doCreate()">Create</button></span>
+        <span><button id="button-showCreate" style="display:none">Update</button></span>
+              <button id="button-showCreate" onclick="showCreate()">
+              <button id="button-doCreate" onclick="doCreate()">Create</button>
+              <button id="button-doUpdate" onclick="doUpdate()">Update</button>
+              
 
-        <h2>
-        <span>Create a</span>
-        <span style="display:none">Update this</span> Book
-        </h2>
-            
+         <script>
+
+          function showCreate(){
+            document.getElementById('button-showCreate').style.display="none"
+            document.getElementById('bookTable').style.display="none"
+            document.getElementById('createUpdateForm').style.display="block"
+
+            document.getElementById('createLabel').style.display="inline"
+            document.getElementById('updateLabel').style.display="none"
+            document.getElementById('button-doCreate').style.display="block"
+            document.getElementById('button-doUpdate').style.display="none"
+            }
+         </script>
      
-    
-    
 
  </body>
 </html>
