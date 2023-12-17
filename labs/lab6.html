@@ -65,14 +65,13 @@
 
         
         <span><button id="button-doCreate" onclick="doCreate()">Create</button></span>
-        <span><button id="button-showCreate" style="display:none">Update</button></span>
-              <button id="button-showCreate" onclick="showCreate()">
-              <button id="button-doCreate" onclick="doCreate()">Create</button>
+        <span><button id="button-showCreate" style="display:none" onclick="showCreate()">Update</button></span>
               <button id="button-doUpdate" onclick="doUpdate()">Update</button>
+         
+       <td><button onclick="showUpdate(this)">Update</button></td>
               
-
+              
          <script>
-
           function showCreate(){
             document.getElementById('button-showCreate').style.display="none"
             document.getElementById('bookTable').style.display="none"
@@ -84,6 +83,13 @@
             document.getElementById('button-doUpdate').style.display="none"
             }
          </script>
+
+         <script>
+            function showUpdate(){
+              document.getElementById('button-doCreate').style.display="none"
+              document.getElementById('button-doUpdate').style.display="block"
+              }
+           </script>         
      
 
  </body>
