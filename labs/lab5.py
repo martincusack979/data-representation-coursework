@@ -1,8 +1,9 @@
 import requests
 import urllib.parse
+from htmlconfig import config as cfg
 
 targetUrl = "https://en.wikipedia.org"
-apiKey = 'rtQ6A9S9j89Avc6e7gPCxbTPuFyXBifC26iPkmuFFddZjA7ERbhkq3pwwbOI4CkJ'
+apiKey = cfg["htmltopdfkey"]
 
 apiurl = 'https://api.html2pdf.app/v1/generate'
 
