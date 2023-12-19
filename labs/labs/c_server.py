@@ -1,4 +1,4 @@
-from flask import Flask, request
+from flask import Flask, request, jsonify
 
 app = Flask(__name__)
 
@@ -8,7 +8,12 @@ def index():
 
 @app.route('/datainquery', methods=['GET'])
 def inquery():
-      firstname = request.args["firstname"]
-      return "your name is " + firstname
+      queryargs = {
+            "firstname" : request.args["firstname"],
+            "age" : request.args["age"]
+      }
+      print (queryargs)
+      return jsonify (queryargs)
+
 if __name__ == "__main__":
     app.run(debug = True)
