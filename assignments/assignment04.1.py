@@ -5,7 +5,7 @@ from config import config as cfg
 
 filename = "repos-assignment4.json"
 
-url = 'https://api.github.com/repos/martincusack979/assignment5'
+url = 'https://api.github.com/repos/martincusack979/assignment4'
 
 apikey = cfg["githubkey"]
 response = requests.get(url, auth = ('token', apikey))
