@@ -1,15 +1,21 @@
 import requests
-import urllib.parse
 import json
+from config import config as cfg
 
-filename = "repos-private.json"
+filename = "repos-private-new8.json"
 
-url = 'https://api.github.com/martincusack979/aprivateone'
+url = 'https://api.github.com/repos/martincusack979/aprivateone'
 
-apiKey = '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'
+# the more basic way of setting authorization
+#headers = {'Authorization': 'token ' + apikey}
+#response = requests.get(url, headers= headers)
 
-response = requests.get(url, auth=('token',apiKey))
-repoJSON = response.json()
+apikey = cfg["githubkey"]
+response = requests.get(url, auth = ('token', apikey))
+
+print (response.status_code)
 #print (response.json())
-with open(filename, 'w') as fp:
+
+with  open(filename, 'w') as fp:
+    repoJSON = response.json()
     json.dump(repoJSON, fp, indent=4)

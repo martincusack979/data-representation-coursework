@@ -3,7 +3,7 @@ import json
 
 filename = "repos-public.json"
 
-url = 'https://api.github.com/repos/martincusack979/data-representation-coursework'
+url = 'https://api.github.com/repos/martincusack979/data-representation-coursework/contents'
 #url = 'https://api.github.com/repos/martincusack979/data-representation-coursework'
 
 response = requests.get(url)

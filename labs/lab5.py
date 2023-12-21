@@ -1,6 +1,6 @@
 import requests
 import urllib.parse
-from htmlconfig import config as cfg
+from config import config as cfg
 
 targetUrl = "https://en.wikipedia.org"
 apiKey = cfg["htmltopdfkey"]
