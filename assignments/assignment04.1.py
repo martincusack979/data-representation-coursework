@@ -33,5 +33,11 @@ contentOfFile = response.text
 gitHubResponse=repo.update_file(fileInfo.path,"updated by prog",
 newContents,fileInfo.sha)
 
+# replace all instances of "Andrew" with "Martin"
+txt = "replace.txt"
+
+x = txt.replace("Andrew", "Martin")
+print(x)
+
 
 
